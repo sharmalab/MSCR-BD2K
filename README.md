@@ -6,7 +6,7 @@ This course will teach fundamental Big Data principles underlying all fields tha
 * Class hours and location: Tue 3:00 - 4:50pm, GCR P53
 
 ## Instructor
-* [Ashish Sharma](https://sharmalab.info)
+* [Ashish Sharma](http://sharmalab.info)
 * [Mark Braunstein](https://www.cc.gatech.edu/people/mark-braunstein)
 * Office hours: by appointment
 
