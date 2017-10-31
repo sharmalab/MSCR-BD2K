@@ -1,0 +1,10 @@
+URL: http://174.129.112.58:9099/services/MSCR/Population/query/
+api_key: f811456a-fedc-49e1-8c92-6f6824078d1f
+
+APIs:
+/getAll
+/getByCountry
+   ?Country=India
+/getByCountryYear
+   ?Country=India&Year=1977
+

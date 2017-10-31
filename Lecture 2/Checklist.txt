@@ -1,0 +1,11 @@
+Chrome: https://www.google.com/chrome/index.html
+
+Java: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+Java SE Runtime 8u152
+  Windows x64 Offline
+  macOS (74.17MB)
+
+OpenRefine
+https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions
+https://github.com/OpenRefine/OpenRefine/releases
