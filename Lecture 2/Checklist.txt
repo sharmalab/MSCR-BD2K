@@ -7,5 +7,4 @@ Java SE Runtime 8u152
   macOS (74.17MB)
 
 OpenRefine
-https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions
 https://github.com/OpenRefine/OpenRefine/releases
