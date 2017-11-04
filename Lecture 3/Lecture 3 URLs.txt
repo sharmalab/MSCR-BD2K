@@ -1,0 +1,15 @@
+Patient 299014
+
+Register at https://loinc.org/join/
+
+https://fhir.loinc.org/ValueSet/top-2000-lab-observations-us?_format=json
+(use your credentials)
+
+http://hl7.org/fhir/administrative-gender
+
+clinfhir.com
+
+
+Bundle.entry.where(resource.resourceType='Observation').where(resource.code.coding.code='8867-4').resource.valueQuantity.value
+
+https://fhirtest.uhn.ca/baseDstu3/Patient/299014
